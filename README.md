@@ -9,7 +9,7 @@ This is usually managed by your operating system, here are some useful resources
 
 - [A comprehensive guide by Microsoft](https://support.microsoft.com/en-us/windows/manage-the-input-and-display-language-settings-in-windows-10-12a10cb4-8626-9b77-0ccb-5013e0c7c7a2).  
 - [A good article by Windows Central](https://www.windowscentral.com/how-properly-change-system-default-language-windows-10).  
-- [A good aticle on How-to-Geek](https://www.howtogeek.com/232659/how-to-change-the-display-language-in-windows-10/).
+- [A good article by How-to-Geek](https://www.howtogeek.com/232659/how-to-change-the-display-language-in-windows-10/).
 
 ## MacOS
 
