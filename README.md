@@ -23,37 +23,37 @@ This is usually managed by your operating system, here are some useful resources
 # Keyboard layouts for different languages
 
 ## Hindi (IN)
-![](https://github.com/championquizzer/keyboard-layouts/blob/main/imgs/hindi-in.png)
+![](./imgs/hindi-in.png)
 
 ## Arabic (QWERTY)
-![](https://github.com/championquizzer/keyboard-layouts/blob/main/imgs/arabic-qwerty.png)
+![](./imgs/arabic-qwerty.png)
 
 ## Assamese
-![](https://github.com/championquizzer/keyboard-layouts/blob/main/imgs/assamese.png)
+![](./imgs/assamese.png)
 
 ## Bangla (IN)
-![](https://github.com/championquizzer/keyboard-layouts/blob/main/imgs/bangla-in.png)
+![](./imgs/bangla-in.png)
 
 ## Gujarati
-![](https://github.com/championquizzer/keyboard-layouts/blob/main/imgs/gujarati.png)
+![](./imgs/gujarati.png)
 
 ## Kannada
-![](https://github.com/championquizzer/keyboard-layouts/blob/main/imgs/kannada.png)
+![](./imgs/kannada.png)
 
 ## Konkani
-![](https://github.com/championquizzer/keyboard-layouts/blob/main/imgs/konkani.jpg)
+![](./imgs/konkani.jpg)
 
 ## Malayalam
-![](https://github.com/championquizzer/keyboard-layouts/blob/main/imgs/malayalam.png)
+![](./imgs/malayalam.png)
 
 ## Marathi
-![](https://github.com/championquizzer/keyboard-layouts/blob/main/imgs/marathi-kagapa-phonetic.png)
+![](./imgs/marathi-kagapa-phonetic.png)
 
 ## Tamil
-![](https://github.com/championquizzer/keyboard-layouts/blob/main/imgs/tamil-inscript.png)
+![](./imgs/tamil-inscript.png)
 
 ## Telugu
-![](https://github.com/championquizzer/keyboard-layouts/blob/main/imgs/telugu.png)
+![](./imgs/telugu.png)
 
 ## Urdu
-![](https://github.com/championquizzer/keyboard-layouts/blob/main/imgs/urdu.png)
+![](./imgs/urdu.png)
