@@ -34,6 +34,12 @@ This is usually managed by your operating system, here are some useful resources
 ## Bangla (IN)
 ![](./imgs/bangla-in.png)
 
+## National Keyboard Layout of Bangladesh
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/File:Bangladesh_National_Keyboard_Layout.svg) (mentioned during the Tor L10n Hangout in August 2021 by Stencil. Thank you!)
+
+![](https://upload.wikimedia.org/wikipedia/commons/7/70/KB-Bengali-National.svg)
+
 ## Gujarati
 ![](./imgs/gujarati.png)
 
